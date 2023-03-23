@@ -1,7 +1,7 @@
 
 👋 Hi there, I’m [@hanzholahs](https://www.github.com/hanzholahs).
 
-🧑‍💼 I'm a research assistant at Bank Indonesia working on the modernization of [BI-RTGS System](https://www.bi.go.id/en/fungsi-utama/sistem-pembayaran/nilai-besar/Default.aspx) and development of [Digital Rupiah](https://www.bi.go.id/en/rupiah/digital-rupiah/default.aspx) (Indonesian central bank digital currency). Besides, I'm a part-time Graduate Diploma student in Computer Science at University of London, learning about machine learning and artificial intelligence.
+🧑‍💼 I'm a business analyst / research assistant at Bank Indonesia working on the modernization of [BI-RTGS System](https://www.bi.go.id/en/fungsi-utama/sistem-pembayaran/nilai-besar/Default.aspx) and development of [Digital Rupiah](https://www.bi.go.id/en/rupiah/digital-rupiah/default.aspx) (Indonesian central bank digital currency). Besides, I'm a part-time Graduate Diploma student in Computer Science at University of London, learning about machine learning and artificial intelligence.
 
 👀 I’m interested in Machine Learning, Artificial Intelligence, and Scientific Computing. I'm looking for collaboration on project related to those topics.
 
