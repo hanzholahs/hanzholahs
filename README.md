@@ -5,7 +5,7 @@
 
 👀 I’m interested in Machine Learning, Artificial Intelligence, and Scientific Computing. I'm looking for collaboration on project related to those topics.
 
-💻 Don't forget to visit my personal webpage at [hanzholahs.quarto.pub](https://hanzholahs.quarto.pub) and check out my [resume](https://hanzholahs.quarto.pub/assets/cv/master/hanzholah-shobri-2.pdf)
+💻 Don't forget to visit my personal webpage at [hanzholahs.quarto.pub](https://hanzholahs.quarto.pub) and check out my [resume](https://hanzholahs.quarto.pub/assets/cv/master/hanzholah-shobri-2.pdf).
 
 🛠 Here are some tools that I use to get my work and project done:
 
