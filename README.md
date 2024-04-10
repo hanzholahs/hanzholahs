@@ -1,11 +1,11 @@
 
 👋 Hi there, I’m [@hanzholahs](https://www.github.com/hanzholahs).
 
-🧑‍💼 I'm a researcher / business analyst at Bank Indonesia working on the modernization of [BI-RTGS System](https://www.bi.go.id/en/fungsi-utama/sistem-pembayaran/nilai-besar/Default.aspx) and development of [Digital Rupiah](https://www.bi.go.id/en/rupiah/digital-rupiah/default.aspx) (Indonesian central bank digital currency). Besides, I'm a part-time Graduate Diploma student in Computer Science at University of London, learning about machine learning and artificial intelligence.
+🧑‍💼 I'm a payment system analyst at Bank Indonesia working on the modernization of [BI-RTGS System](https://www.bi.go.id/en/fungsi-utama/sistem-pembayaran/nilai-besar/Default.aspx) and development of [Digital Rupiah](https://www.bi.go.id/en/rupiah/digital-rupiah/default.aspx) (Indonesian central bank digital currency). Besides, I'm a part-time Graduate Diploma student in Computer Science at University of London, learning about machine learning and artificial intelligence.
 
 👀 I’m interested in Machine Learning, Artificial Intelligence, and Scientific Computing. I'm looking for collaboration on project related to those topics.
 
-💻 Don't forget to visit my personal webpage at [hanzholahs.quarto.pub](https://hanzholahs.quarto.pub) and check out my [resume](https://hanzholahs.quarto.pub/assets/cv/master/hanzholah-shobri-2.pdf).
+💻 Don't forget to visit my personal webpage at [hanzhs.com](https://www.hanzhs.com) and check out my [resume](https://hanzhs.com/assets/cv/hanzholah-shobri-resume.pdf).
 
 🛠 Here are some tools that I use to get my work and project done:
 
@@ -16,7 +16,7 @@
 📫 Feel free to reach me:
   - Twitter: https://www.twitter.com/hanzholahs
   - Linkedin: https://www.linkedin.com/in/hanzholahs/
-  - Email: [hanzholahs@proton.me](mailto:hanzholahs@proton.me)
+  - Email: [hanzhshobri@gmail.com](mailto: hanzhshobri@gmail.com)
 
 
 <!---
