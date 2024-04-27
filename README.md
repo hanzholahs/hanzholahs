@@ -16,7 +16,7 @@
 📫 Feel free to reach me:
   - Twitter: https://www.twitter.com/hanzholahs
   - Linkedin: https://www.linkedin.com/in/hanzholahs/
-  - Email: [hanzhshobri@gmail.com](mailto: hanzhshobri@gmail.com)
+  - Email: hanzhshobri@gmail.com
 
 
 <!---
